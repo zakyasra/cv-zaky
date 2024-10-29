@@ -12,7 +12,7 @@ export const DATA = {
     "Passionate about creating user-friendly front-end experiences, I'm driven by continuous learning in this dynamic field.",
   summary:
     "In mid-2022, I began my career as a software engineer at [Smarteschool](https://smarteschool.id) as a intern front-end developer. At the same time I was still a student at [Vocational High School 26 Jakarta with a focus in software engineering](https://www.smkn26jakarta.sch.id/). I am now focusing on my full-time job at an Odoo company in Jakarta and have gained valuable experience through freelance work. Interested in working on ambitious projects with positive people.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "React",
     "Next.js",
